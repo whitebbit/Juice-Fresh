@@ -1,0 +1,31 @@
+{
+  "idSave": 119,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "sound": 0,
+  "music": 0,
+  "openLevel": 2,
+  "openLevelTest": 0,
+  "gems": 6,
+  "lives": 5,
+  "launched": 1,
+  "restLifeTimer": 865.852234,
+  "dateOfExit": "25.04.2024 12:22:53",
+  "BoostCount": {
+    "Colorful_bomb": 3
+  },
+  "LevelScore": {
+    "Score1": 3500
+  },
+  "LevelStars": {
+    "Level.001.StarsCount": 3
+  }
+}
